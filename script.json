@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Jamie, a Technical Project Manager from Springfield, Virginia.\n![jamie](https://www.linkedin.com/in/gergie)\nWant to know more about Jamie? %[Learn about Jamie](postback:learn_about_jamie) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Jamie, a Technical Project Manager from Springfield, Virginia.\n![jamie](https://github.com/jamiegergen/JamieBot/master/img/Jamie_Gergen.png)\nWant to know more about Jamie? %[Learn about Jamie](postback:learn_about_jamie) %[Twitter](postback:twitter)",
     "HELLO": "Hey, welcome to JamieBot! What would you like to know about Jamie?",
     "Twitter": "Tweet @Gergie so he knows you're interested in speaking.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
